@@ -32,10 +32,6 @@ nav {
     cursor: pointer;
 }
 
-.menu {
-    width: 50px;
-    cursor: pointer;
-}
 
 .text-box {
     width: 60%;
@@ -67,28 +63,3 @@ nav {
     cursor: pointer;
 }
 
-.sidebar {
-    height: 335px;
-    width: 70px;
-    padding: 5px 0px;
-    background: #fff;
-    border-radius: 5px;
-    position: absolute;
-    top: 50%;
-    right: 50px;
-    transform: translateY(-50%);
-}
-
-.side-text {
-    min-width: 0px;
-    height: 100px;
-    background: #f44336;
-    margin-right: 5px;
-    line-height: 0;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 5px 0 0 5px;
-    overflow: hidden;
-}
